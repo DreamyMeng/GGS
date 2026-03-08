@@ -1,0 +1,18 @@
+{
+    "name": "DOTweenEditor",
+    "rootNamespace": "DG.Tweening.Editor",
+    "references": [
+        "DOTween",
+        "DOTweenModules"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
