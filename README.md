@@ -8,7 +8,8 @@ https://github.com/DreamyMeng/GGS.git?path=Assets/Plugins/Zenject
 
 
 - DOTween - 强大的动画插件，用于创建平滑的UI动画、角色动画等。  
-https://github.com/DreamyMeng/GGS.git?path=Assets/Plugins/DOTween
+https://github.com/DreamyMeng/GGS.git?path=Assets/Plugins/Demigiant/DOTween  
+需要手动在项目中添加配置文件DOTweenSettings.asset
 
 
 - UniTask - 是一个为 Unity 量身定制的轻量级异步编程库。  
