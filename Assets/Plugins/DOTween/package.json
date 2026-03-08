@@ -1,0 +1,12 @@
+{
+	"name": "com.demigiant.dotween",
+	"version": "1.2.705",
+	"displayName": "DOTween",
+	"description": "DOTween is a fast, efficient, fully type-safe object-oriented animation engine",
+	"unity": "2018.1",
+	"author": {
+		"name": "Daniele Giardini",
+		"email": "demigiant@gmail.com",
+		"url": "http://demigiant.com"
+	}
+}
