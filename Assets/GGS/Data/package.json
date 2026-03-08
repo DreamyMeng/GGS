@@ -1,5 +1,14 @@
 {
-	"name": "com.ggs.data",
-	"version": "1.0",
-	"displayName": "GGS Data"
+    "name": "com.ggs.data",
+    "version": "1.0.0",
+    "displayName": "GGS Data",
+    "description": "Data management system for GGS project",
+    "unity": "2020.3",
+    "keywords": [
+        "data",
+        "ggs"
+    ],
+    "author": {
+        "name": "GGS"
+    }
 }

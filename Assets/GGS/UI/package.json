@@ -1,5 +1,14 @@
 {
-	"name": "com.ggs.ui",
-	"version": "1.0",
-	"displayName": "GGS UI"
+    "name": "com.ggs.ui",
+    "version": "1.0.0",
+    "displayName": "GGS UI",
+    "description": "UI system for GGS project",
+    "unity": "2020.3",
+    "keywords": [
+        "ui",
+        "ggs"
+    ],
+    "author": {
+        "name": "GGS"
+    }
 }

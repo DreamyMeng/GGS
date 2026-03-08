@@ -1,5 +1,15 @@
 {
-	"name": "com.ggs.localization",
-	"version": "1.0",
-	"displayName": "GGS Localization"
+    "name": "com.ggs.localization",
+    "version": "1.0.0",
+    "displayName": "GGS Localization",
+    "description": "Localization system for GGS project",
+    "unity": "2020.3",
+    "keywords": [
+        "localization",
+        "i18n",
+        "ggs"
+    ],
+    "author": {
+        "name": "GGS"
+    }
 }
