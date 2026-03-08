@@ -1,4 +1,6 @@
-### 当前项目使用插件：
+### Unity插件，使用UPM方式进行安装
+
+----------------------------
 - Newtonsoft.Json - 用于JSON数据的序列化和反序列化，方便存储游戏数据。  
 com.unity.nuget.newtonsoft-json  
 
@@ -21,4 +23,8 @@ https://github.com/DreamyMeng/GGS.git?path=Assets/GGS/UI
 Data - 读取数据、玩家存档  
 https://github.com/DreamyMeng/GGS.git?path=Assets/GGS/Data  
 Localization - 多语言  
-https://github.com/DreamyMeng/GGS.git?path=Assets/GGS/Localization
+https://github.com/DreamyMeng/GGS.git?path=Assets/GGS/Localization  
+
+---------------------
+### 其他工具，直接下载解压到根目录即可
+design - excel导表工具
