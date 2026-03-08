@@ -1,0 +1,17 @@
+{
+    "name": "GGS.Data",
+    "rootNamespace": "GGS.Data",
+    "references": [
+        "Newtonsoft.Json",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
